@@ -1,5 +1,5 @@
 <h1 align="center">
-  Valexnt Vanity Sniper ➰ (v1)
+  Valexnt Vanity Sniper ➰
 </h1>
 
 <p align="center">
@@ -55,8 +55,8 @@ https://user-images.githubusercontent.com/127977224/227037538-433e8e9a-1c77-46df
 --- 
 
   <p align="center">
-    <a href="https://t.me/Serups">
-        <img title="Serups" alt="Serups's Telegram" src="https://cdn.discordapp.com/attachments/1087352666180554852/1087366848124825742/Serups_1_1.png"/>
+    <a href="[https://discord.gg/valexnt](https://discordid.netlify.app/?id=1061742160128520213)">
+        <img title="Valexnt" alt="Valexnt's Discord Profile" src="https://cdn.discordapp.com/attachments/1087352666180554852/1087366848124825742/Serups_1_1.png"/>
     </a>
 </p>
 
