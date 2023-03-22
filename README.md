@@ -8,9 +8,8 @@
 
 ## <a id="content"></a>🌐 〢 Content
 
-- External latest version that has been designed to be different from the old version
 - Read all the steps carefully.
-- **Scroll Down for Raed more**
+- **Scroll Down for Read more**
 
 #### ❗ Buy & Support
 - Dont Know how to use or where to buy? | Join our discord server: [Discord Server](https://discord.gg/valexnt)
